@@ -1,2 +1,0 @@
-/*! For license information please see 436.bca3172e.js.LICENSE.txt */
-(self.webpackChunkofi_blog_new=self.webpackChunkofi_blog_new||[]).push([[436],{1436:function(i,n,c){"use strict";c.d(n,{IQi:function(){return e}});var e={prefix:"fas",iconName:"window-minimize",icon:[512,512,[],"f2d1","M464 352H48c-26.5 0-48 21.5-48 48v32c0 26.5 21.5 48 48 48h416c26.5 0 48-21.5 48-48v-32c0-26.5-21.5-48-48-48z"]}}}]);
