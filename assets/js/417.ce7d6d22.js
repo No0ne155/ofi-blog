@@ -1,2 +1,0 @@
-/*! For license information please see 417.ce7d6d22.js.LICENSE.txt */
-(self.webpackChunkofi_blog_versioned=self.webpackChunkofi_blog_versioned||[]).push([[417],{1417:function(e,n,i){"use strict";i.d(n,{ts2:function(){return o}});var o={prefix:"fab",iconName:"windows",icon:[448,512,[],"f17a","M0 93.7l183.6-25.3v177.4H0V93.7zm0 324.6l183.6 25.3V268.4H0v149.9zm203.8 28L448 480V268.4H203.8v177.9zm0-380.6v180.1H448V32L203.8 65.7z"]}}}]);
