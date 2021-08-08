@@ -1,0 +1,1 @@
+(self.webpackChunkofi_blog_versioned=self.webpackChunkofi_blog_versioned||[]).push([[7078],{2564:function(e){"use strict";e.exports=JSON.parse('{"pluginId":"default","version":"24o","label":"24o","banner":"none","isLast":false,"docsSidebars":{"version-24o/sidebar":[{"type":"link","label":"24o","href":"/ofi-blog/24o/home"}]}}')}}]);
