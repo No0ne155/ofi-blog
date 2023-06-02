@@ -18,7 +18,7 @@ sidebar_custom_props:
 
 IP-Adressen kann man sich schlecht merken. Trotzdem braucht man sie, wenn man auf einen anderen Rechner, z.B. einen Webserver zugreifen will. Was also tun?
 
-Wir verwenden gut merkbare Namen als Platzhalter für die eigentlichen IP-Adressen. Sie sagen ja auch "Ich telefoniere mit meiner Mam" und nicht ich telefonieren mit "Ich telefonieren mit 078 123 45 67".
+Wir verwenden gut merkbare Namen als Platzhalter für die eigentlichen IP-Adressen. Sie sagen ja auch "Ich telefoniere mit meiner Mam" und nicht ich telefonieren mit "Ich telefoniere mit 078 123 45 67".
 
 Jetzt brauchen wir nur noch einen Ort, wo wir die IP-Adresse zu einem bestimmten Namen nachschlagen können, also ein Verzeichnis.
 
